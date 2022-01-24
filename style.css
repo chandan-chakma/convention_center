@@ -1,7 +1,9 @@
-
+/* moment custom button css */
 .button{
     background-color: #3F87F5;
 }
+
+/* price custom css */
 .pricebg{
     background: #F496D1;
     mix-blend-mode: normal;
@@ -13,8 +15,20 @@
 }
 .hot{
     background-color:#3F87F5;
+    width: 292px;
+   height: 460px;
+
+}
+.text{
+    color: #fff;
 }
 .radious{
     border-radius: 30px;
 
+}
+
+/* client custom css */
+.client{
+    width: 300px;
+    height: 323px;
 }

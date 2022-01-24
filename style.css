@@ -1,11 +1,20 @@
-.wedding{
-    width: 546px;
-    height: 364px;
-}
-.icon{
-    width: 24px;
-    height: 24px;
-}
+
 .button{
     background-color: #3F87F5;
+}
+.pricebg{
+    background: #F496D1;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+.pricelist{
+    width: 292px;
+   height: 360px;
+}
+.hot{
+    background-color:#3F87F5;
+}
+.radious{
+    border-radius: 30px;
+
 }
